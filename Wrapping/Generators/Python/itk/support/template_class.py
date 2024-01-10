@@ -27,7 +27,6 @@ from typing import Dict, Any, List, Callable, Union
 
 import itkConfig
 
-
 from itk.support import base
 from itk.support.extras import output
 from itk.support.types import itkCType
